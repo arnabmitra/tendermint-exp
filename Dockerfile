@@ -1,5 +1,5 @@
 FROM golang:1.11
-WORKDIR $GOPATH/src/github.com/ArtosSystems/tendermint-exp
+WORKDIR $GOPATH/src/github.com/arnabmitra/tendermint-exp
 COPY . .
 RUN go get -d -v ./...
 RUN go install -v ./...

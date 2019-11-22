@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ArtosSystems/tendermint-exp/ticketstore"
+	"github.com/arnabmitra/tendermint-exp/ticketstore"
 	"github.com/tendermint/tendermint/abci/server"
 	cmn "github.com/tendermint/tendermint/libs/common"
 	"github.com/tendermint/tendermint/libs/log"

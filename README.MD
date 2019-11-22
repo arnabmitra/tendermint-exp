@@ -2,8 +2,8 @@
 
 ## Installation
 ```
-got get -u github.com/ArtosSystems/tendermint-exp
-cd $GOPATH/src/github.com/ArtosSystems/tendermint-exp
+got get -u github.com/arnabmitra/tendermint-exp
+cd $GOPATH/src/github.com/arnabmitra/tendermint-exp
 go install
 ```
 
